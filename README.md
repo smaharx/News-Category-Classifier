@@ -4,7 +4,7 @@
 ![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red)
 ![Scikit--learn](https://img.shields.io/badge/ML-Scikit--learn-orange)
 ![NLP](https://img.shields.io/badge/NLP-TF--IDF-purple)
-![License](https://img.shields.io/badge/License-Not%20Specified-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 News Category Classifier is a Machine Learning and NLP application that classifies news text into four categories: **Politics, Technology, Entertainment, and Business**. The project combines text preprocessing, TF-IDF feature extraction, a trained Naive Bayes classifier, and a Streamlit interface to provide an interactive news classification experience.
 
